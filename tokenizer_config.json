@@ -36,7 +36,7 @@
   "pad_token": null,
   "sp_model_kwargs": {},
   "spaces_between_special_tokens": false,
-  "tokenizer_class": "MistralTokenizer",
+  "tokenizer_class": "LlamaTokenizer",
   "unk_token": "<unk>",
   "use_default_system_prompt": true
 }
