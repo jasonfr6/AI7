@@ -5,7 +5,7 @@
     "0": {
       "content": "<unk>",
       "lstrip": false,
-      "normalized": false,
+      "normalized": true,
       "rstrip": false,
       "single_word": false,
       "special": true
@@ -13,7 +13,7 @@
     "1": {
       "content": "<s>",
       "lstrip": false,
-      "normalized": false,
+      "normalized": true,
       "rstrip": false,
       "single_word": false,
       "special": true
@@ -21,7 +21,7 @@
     "2": {
       "content": "</s>",
       "lstrip": false,
-      "normalized": false,
+      "normalized": true,
       "rstrip": false,
       "single_word": false,
       "special": true
