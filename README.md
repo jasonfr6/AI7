@@ -1,6 +1,8 @@
 ---
 license: apache-2.0
 pipeline_tag: text-generation
+tags:
+- pretrained
 ---
 
 # Model Card for Mistral-7B-v0.1
