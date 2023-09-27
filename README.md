@@ -11,7 +11,7 @@ Mistral-7B-v0.1 outperforms Llama 2 13B on all benchmarks we tested.
 For full details of this model please read our [Release blog post](https://mistral.ai/news/announcing-mistral-7b-v0.1/)
 
 ## Model Architecture 
-Mistral AI-7B-v0.1 is a transformer model, with the following architecture choices:
+Mistral-7B-v0.1 is a transformer model, with the following architecture choices:
 - Grouped-Query Attention
 - Sliding-Window Attention
 - Byte-fallback BPE tokenizer
