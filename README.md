@@ -18,6 +18,10 @@ Mistral-7B-v0.1 is a transformer model, with the following architecture choices:
 - Sliding-Window Attention
 - Byte-fallback BPE tokenizer
 
+## Notice
+
+Mistral 7B is a pretrained base model and there does not have any moderation mechanisms.
+
 ## The Mistral AI Team
  
 Albert Jiang, Alexandre Sablayrolles, Arthur Mensch, Chris Bamford, Devendra Singh Chaplot, Diego de las Casas, Florian Bressand, Gianna Lengyel, Guillaume Lample, Lélio Renard Lavaud, Lucile Saulnier, Marie-Anne Lachaux, Pierre Stock, Teven Le Scao, Thibaut Lavril, Thomas Wang, Timothée Lacroix, William El Sayed.
