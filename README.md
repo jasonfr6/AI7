@@ -20,7 +20,7 @@ Mistral-7B-v0.1 is a transformer model, with the following architecture choices:
 
 ## Notice
 
-Mistral 7B is a pretrained base model and there does not have any moderation mechanisms.
+Mistral 7B is a pretrained base model and therefore does not have any moderation mechanisms.
 
 ## The Mistral AI Team
  
