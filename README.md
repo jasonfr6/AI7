@@ -1,8 +1,18 @@
 ---
 license: apache-2.0
-pipeline_tag: text-generation
+pipeline_tag: text-to-image
 tags:
 - pretrained
+- finance
+datasets:
+- fka/awesome-chatgpt-prompts
+- lmsys/lmsys-chat-1m
+language:
+- ar
+- en
+metrics:
+- bertscore
+library_name: allennlp
 ---
 
 # Model Card for Mistral-7B-v0.1
