@@ -3,6 +3,9 @@ license: apache-2.0
 pipeline_tag: text-generation
 tags:
 - pretrained
+inference:
+  parameters:
+    temperature: 0.7
 ---
 
 # Model Card for Mistral-7B-v0.1
