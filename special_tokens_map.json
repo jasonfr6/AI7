@@ -1,9 +1,5 @@
 {
-  "additional_special_tokens": [
-    "<unk>",
-    "<s>",
-    "</s>"
-  ],
+  "additional_special_tokens": [],
   "bos_token": "<s>",
   "eos_token": "</s>",
   "unk_token": "<unk>"
