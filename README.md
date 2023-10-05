@@ -16,12 +16,14 @@ Mistral-7B-v0.1 outperforms Llama 2 13B on all benchmarks we tested.
 For full details of this model please read our [Release blog post](https://mistral.ai/news/announcing-mistral-7b/)
 
 ## Model Architecture 
+
 Mistral-7B-v0.1 is a transformer model, with the following architecture choices:
 - Grouped-Query Attention
 - Sliding-Window Attention
 - Byte-fallback BPE tokenizer
 
 ## Troubleshooting
+
 - If you see the following error:
 ```
 Traceback (most recent call last):
@@ -35,12 +37,7 @@ raise KeyError(key)
 KeyError: 'mistral'
 ```
 
-Installing transformers from source should solve the issue:
-```
-pip install git+https://github.com/huggingface/transformers
-```
-This should not be required after transformers-v4.33.4.
-
+Ensure you are utilizing Transformers version 4.34.0 or newer.
 
 ## Notice
 
