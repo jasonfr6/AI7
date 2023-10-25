@@ -1,8 +1,9 @@
 ---
 license: apache-2.0
-pipeline_tag: text-generation
+pipeline_tag: conversational
 language:
-  - en
+- en
+- hi
 tags:
 - pretrained
 inference:
