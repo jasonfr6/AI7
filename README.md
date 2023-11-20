@@ -39,7 +39,7 @@ Ensure you are utilizing a stable version of Transformers, 4.34.0 or newer.
 
 ## Notice
 
-Mistral 7B is a pretrained base model and therefore does not have any moderation mechanisms.
+Mistral 7B is a pretrained= base model and therefore does not have any moderation mechanisms.
 
 ## The Mistral AI Team
  
