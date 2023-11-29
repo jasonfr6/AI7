@@ -1,13 +1,23 @@
 ---
 license: apache-2.0
 pipeline_tag: text-generation
-language:
-  - en
 tags:
-- pretrained
+- finance
+- biology
+- chemistry
+- medical
+- art
 inference:
   parameters:
     temperature: 0.7
+datasets:
+- HuggingFaceH4/no_robots
+metrics:
+- bleurt
+- accuracy
+- bertscore
+- bleu
+library_name: allennlp
 ---
 
 # Model Card for Mistral-7B-v0.1
