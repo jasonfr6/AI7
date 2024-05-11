@@ -1,8 +1,7 @@
 ---
-license: apache-2.0
 pipeline_tag: text-generation
 language:
-  - en
+- en
 tags:
 - pretrained
 inference:
